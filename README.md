@@ -1,6 +1,6 @@
 A React based frontend only project to upload, store and display the csv data from the local storage
 <div align="center">
-    <img src="/Demo/screen.png" width="400px"</img> 
+    <img src="/Demo/screen.png" width="800px"</img> 
 </div>
 
 ## Available Scripts
